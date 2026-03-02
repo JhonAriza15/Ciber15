@@ -14,7 +14,7 @@ DevSecOps aplica seguridad en cada etapa:
 
 1.  Planificación
   - Identificar riesgos.
-  -Definir requisitos de seguridad.
+  - Definir requisitos de seguridad.
 2.  Desarrollo
   - Código seguro.
   - Revisión de código.
