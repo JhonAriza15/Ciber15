@@ -27,3 +27,5 @@ DevSecOps aplica seguridad en cada etapa:
 5.  Monitoreo
   - Logs y alertas.
   - Detección de ataques.
+
+# Preguntas Orientadoras (Análisis DevSecOps)
