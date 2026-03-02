@@ -12,16 +12,16 @@ Detectar y corregir vulnerabilidades lo más temprano posible, reduciendo riesgo
 
 DevSecOps aplica seguridad en cada etapa:
 
-1.Planificación
+1.  Planificación
   - Identificar riesgos.
   -Definir requisitos de seguridad.
-2. Desarrollo
+2.  Desarrollo
   - Código seguro.
   - Revisión de código.
-3. Integración continua (CI/CD)
+3.  Integración continua (CI/CD)
   - Escaneo automático de vulnerabilidades.
   - Pruebas de seguridad automatizadas.
-4. Despliegue
+4.  Despliegue
   - Configuración segura.
   - Control de acceso.
 5.  Monitoreo
