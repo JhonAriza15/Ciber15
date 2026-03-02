@@ -1,3 +1,3 @@
 
-Hola(images/imagen.PNG)
+Hola(images/imagen.png)
 
