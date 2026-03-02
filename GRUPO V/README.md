@@ -1,3 +1,3 @@
 
-Hola(images/imagen.png)
+![Hola](images/imagen.png)
 
