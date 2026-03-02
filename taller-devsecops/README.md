@@ -1,1 +1,1 @@
-##  Descripción de qué es DevSecOps
+##  Qué es DevSecOps
