@@ -1,3 +1,0 @@
-
-![Hola](images/imagen.png)
-
