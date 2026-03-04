@@ -32,6 +32,9 @@ DevSecOps aplica seguridad en cada etapa:
 
 #### Trazabilidad: ¿Por qué es un riesgo de seguridad dejar la configuración de user.name y user.email vacía o utilizar datos genéricos en un entorno empresarial?
 
+En un entorno empresarial, cada cambio en el código debe poder rastrearse hasta la persona que lo realizó. Si user.name y user.email están vacíos o se usan datos genéricos, se pierde la trazabilidad de los commits.Esto representa un riesgo de seguridad porque no se puede identificar quién introdujo un cambio, una vulnerabilidad o un error en el sistema. Además, dificulta auditorías de seguridad, investigaciones de incidentes y el control de responsabilidades dentro del equipo
+
+
 #### Cifrado Asimétrico: En el caso de usar SSH, ¿cuál es la diferencia funcional entre la llave privada y la pública? ¿Qué pasaría si un tercero obtiene acceso a tu llave privada?
 
 #### Principio de Mínimo Privilegio: Si decides usar un Token de Acceso Personal (PAT), ¿qué riesgos conlleva asignarle permisos de "Administrador" (Full Control) en lugar de solo permisos de "Lectura/Escritura"?
